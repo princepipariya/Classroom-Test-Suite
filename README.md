@@ -1,4 +1,4 @@
-# SDP_classroom_test_suite
+# Classroom_test_suite
 An app to take tests and evaluate students by admins. it uses Google's firebase for managing the tests, results and authentication. it lets you see the leaderboard after successful completion of tests. Admin has access to all the results and other features automatically. it uses firebase-storage feature to save user profile images.
 
 Features
